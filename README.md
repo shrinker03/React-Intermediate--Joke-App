@@ -1,3 +1,5 @@
+This is an Intermediate level React App which fetches Jokes and stores it in local storage, The USER could Upvote or Downvote the joke and then on the basis of the No. of Upvotes or Downvotes the Joke-List will get sorted. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
